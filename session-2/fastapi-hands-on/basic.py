@@ -11,28 +11,28 @@ news = {
         "id": 1,
         "title": "Most popular pogramming language",
         "content": "Python is the most popular programming the other popular",
-        "author": "Mohammed"
+        "author": "shanewz"
     },
     2:
     {
         "id": 2,
         "title": "Most used database",
         "content": "Most common use database is MySql",
-        "author": "Main"
+        "author": "uddin"
     },
     3:
     {
         "id": 3,
         "title": "Best Web language to design website",
         "content": "HTML and CSS is most common used web laguage in the world",
-        "author": "Uddin"
+        "author": "shihab"
     },
     4:
     {
         "id": 4,
         "title": "Why we do web scrapping",
         "content": "Web Scraping lets you automatically extract lots of data from websites",
-        "author": "C201091"
+        "author": "C201117"
     },
 }
 
